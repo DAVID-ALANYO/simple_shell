@@ -1,4 +1,4 @@
-rgument vector from main()
+argument vector from main()
  *
  * Return: 0 on success, 1 on error, or error code
  */
